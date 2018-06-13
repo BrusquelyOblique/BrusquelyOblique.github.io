@@ -1,0 +1,132 @@
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~
+$ cd c/users/Ryan/bootcamp
+bash: cd: c/users/Ryan/bootcamp: No such file or directory
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~
+$ ls
+ _netrc                   NTUSER.DAT{f5b13603-4b48-11e6-80cb-e41d2d012050}.TxR.0.regtrans-ms
+ AppData/                 NTUSER.DAT{f5b13603-4b48-11e6-80cb-e41d2d012050}.TxR.1.regtrans-ms
+'Application Data'@       NTUSER.DAT{f5b13603-4b48-11e6-80cb-e41d2d012050}.TxR.2.regtrans-ms
+ bootcamp/                NTUSER.DAT{f5b13603-4b48-11e6-80cb-e41d2d012050}.TxR.blf
+ Contacts/                NTUSER.DAT{f5b13604-4b48-11e6-80cb-e41d2d012050}.TM.blf
+ Cookies@                 NTUSER.DAT{f5b13604-4b48-11e6-80cb-e41d2d012050}.TMContainer00000000000000000001.regtrans-ms
+ Desktop/                 NTUSER.DAT{f5b13604-4b48-11e6-80cb-e41d2d012050}.TMContainer00000000000000000002.regtrans-ms
+ Documents/               ntuser.ini
+ Downloads/               OneDrive/
+ Favorites/               Pictures/
+ IntelGraphicsProfiles/   PrintHood@
+ Links/                   Recent@
+'Local Settings'@        'Saved Games'/
+ Music/                   Searches/
+'My Documents'@           SendTo@
+ NetHood@                'Start Menu'@
+ NTUSER.DAT               Templates@
+ ntuser.dat.LOG1          Videos/
+ ntuser.dat.LOG2
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~
+$ cd c/users/Ryan/bootcamp
+bash: cd: c/users/Ryan/bootcamp: No such file or directory
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~
+$ cd c/users/RYan/bootcamp
+bash: cd: c/users/RYan/bootcamp: No such file or directory
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~
+$ cd
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~
+$ pwd
+/c/Users/Ryan
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~
+$ cd bootcamp
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~/bootcamp
+$ git clone git@github.com:BrusquelyOblique/First-Repository.git
+Cloning into 'First-Repository'...
+Warning: Permanently added the RSA host key for IP address '192.30.253.112' to the list of known hosts.
+warning: You appear to have cloned an empty repository.
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~/bootcamp
+$ ls
+First-Repository/  GTATL201806FSF2-FT-Class-Repository-FSF-FT/  study_notes.txt  study-tools/
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~/bootcamp
+$ cd First-Repository
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~/bootcamp/First-Repository (master)
+$ ls
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~/bootcamp/First-Repository (master)
+$ cd
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~
+$ ls
+ _netrc                   NTUSER.DAT{f5b13603-4b48-11e6-80cb-e41d2d012050}.TxR.0.regtrans-ms
+ AppData/                 NTUSER.DAT{f5b13603-4b48-11e6-80cb-e41d2d012050}.TxR.1.regtrans-ms
+'Application Data'@       NTUSER.DAT{f5b13603-4b48-11e6-80cb-e41d2d012050}.TxR.2.regtrans-ms
+ bootcamp/                NTUSER.DAT{f5b13603-4b48-11e6-80cb-e41d2d012050}.TxR.blf
+ Contacts/                NTUSER.DAT{f5b13604-4b48-11e6-80cb-e41d2d012050}.TM.blf
+ Cookies@                 NTUSER.DAT{f5b13604-4b48-11e6-80cb-e41d2d012050}.TMContainer00000000000000000001.regtrans-ms
+ Desktop/                 NTUSER.DAT{f5b13604-4b48-11e6-80cb-e41d2d012050}.TMContainer00000000000000000002.regtrans-ms
+ Documents/               ntuser.ini
+ Downloads/               OneDrive/
+ Favorites/               Pictures/
+ IntelGraphicsProfiles/   PrintHood@
+ Links/                   Recent@
+'Local Settings'@        'Saved Games'/
+ Music/                   Searches/
+'My Documents'@           SendTo@
+ NetHood@                'Start Menu'@
+ NTUSER.DAT               Templates@
+ ntuser.dat.LOG1          Videos/
+ ntuser.dat.LOG2
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~
+$ touch example.txt
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~
+$ ls
+ _netrc                   ntuser.dat.LOG2
+ AppData/                 NTUSER.DAT{f5b13603-4b48-11e6-80cb-e41d2d012050}.TxR.0.regtrans-ms
+'Application Data'@       NTUSER.DAT{f5b13603-4b48-11e6-80cb-e41d2d012050}.TxR.1.regtrans-ms
+ bootcamp/                NTUSER.DAT{f5b13603-4b48-11e6-80cb-e41d2d012050}.TxR.2.regtrans-ms
+ Contacts/                NTUSER.DAT{f5b13603-4b48-11e6-80cb-e41d2d012050}.TxR.blf
+ Cookies@                 NTUSER.DAT{f5b13604-4b48-11e6-80cb-e41d2d012050}.TM.blf
+ Desktop/                 NTUSER.DAT{f5b13604-4b48-11e6-80cb-e41d2d012050}.TMContainer00000000000000000001.regtrans-ms
+ Documents/               NTUSER.DAT{f5b13604-4b48-11e6-80cb-e41d2d012050}.TMContainer00000000000000000002.regtrans-ms
+ Downloads/               ntuser.ini
+ example.txt              OneDrive/
+ Favorites/               Pictures/
+ IntelGraphicsProfiles/   PrintHood@
+ Links/                   Recent@
+'Local Settings'@        'Saved Games'/
+ Music/                   Searches/
+'My Documents'@           SendTo@
+ NetHood@                'Start Menu'@
+ NTUSER.DAT               Templates@
+ ntuser.dat.LOG1          Videos/
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~
+$ git status
+fatal: not a git repository (or any of the parent directories): .git
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~
+$ code ./
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~
+$ git add example.txt
+fatal: not a git repository (or any of the parent directories): .git
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~
+$ cd
+
+Ryan@LAPTOP-IBESLJDA MINGW64 ~
+$ git@github.com:BrusquelyOblique/First-Repository.git
+
+
+
+
+
